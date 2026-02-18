@@ -10,36 +10,16 @@ OpenCode Zen es un **asistente de codificación gratuito, open-source y multipla
 
 ---
 
-## 🧑‍💻 Autor
+## 💡 Características Principales
 
-**Isaac Haro**  
-Ingeniero en Sistemas · Full Stack · Automatización · Data
-
----
-
-## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
-
-**Ingeniero en Sistemas · Full Stack · Automatización · Data**
-
-- 📧 Email: zackharo1@gmail.com
-- 📱 WhatsApp: 098805517
-- 💻 GitHub: https://github.com/ieharo1
-- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
-
----
-
-## 📝 Licencia
-
-© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
-
-- CLI y Python para máxima flexibilidad  
-- Compatible con **Windows, Linux y Mac**  
-- Generación de snippets en múltiples lenguajes: Python, SQL, JavaScript, Bash  
-- Explicación de código y debugging rápido  
-- Automatización de tareas repetitivas y pipelines de CI/CD  
-- Integración con **modelos gratuitos de IA**  
-- Compatible con **n8n** para automatización de flujos y procesos  
-- Totalmente open-source, contribuciones bienvenidas  
+- CLI y Python para máxima flexibilidad
+- Compatible con **Windows, Linux y Mac**
+- Generación de snippets en múltiples lenguajes: Python, SQL, JavaScript, Bash
+- Explicación de código y debugging rápido
+- Automatización de tareas repetitivas y pipelines de CI/CD
+- Integración con **modelos gratuitos de IA**
+- Compatible con **n8n** para automatización de flujos y procesos
+- Totalmente open-source, contribuciones bienvenidas
 
 ---
 
@@ -170,25 +150,25 @@ opencodezen doc "mi_proyecto/"
 ```
 
 ### 5️⃣ Flujos n8n
-- Ejecuta scripts Python de OpenCode Zen desde n8n para:  
-  - Generar snippets automáticamente al recibir datos  
-  - Explicar o validar código antes de desplegar  
-  - Integrar tests automáticos en pipelines  
+- Ejecuta scripts Python de OpenCode Zen desde n8n para:
+  - Generar snippets automáticamente al recibir datos
+  - Explicar o validar código antes de desplegar
+  - Integrar tests automáticos en pipelines
 
 ### 6️⃣ Uso con modelos gratuitos de IA
-- Aprende, genera y prueba código sin costo  
-- Compatible con flujos locales y pipelines en Docker  
+- Aprende, genera y prueba código sin costo
+- Compatible con flujos locales y pipelines en Docker
 
 ---
 
 ## 🔧 Buenas Prácticas y Tips Avanzados
 
-1. **Combina CLI y Python**: CLI para pruebas rápidas, Python para pipelines y scripts más complejos.  
-2. **Automatización reproducible**: Docker + n8n + tests automáticos para proyectos consistentes.  
-3. **Aprendizaje activo**: Genera código, explícalo y modifícalo para mejorar patrones de desarrollo.  
-4. **Integración CI/CD**: Añade `opencodezen test` en pipelines GitHub Actions para validar snippets automáticamente.  
-5. **Extensión comunitaria**: Crea módulos Python personalizados y comparte con la comunidad.  
-6. **Productividad máxima**: Flujo recomendado: `generate` → `explain` → `test` → integrar en n8n/Docker.  
+1. **Combina CLI y Python**: CLI para pruebas rápidas, Python para pipelines y scripts más complejos.
+2. **Automatización reproducible**: Docker + n8n + tests automáticos para proyectos consistentes.
+3. **Aprendizaje activo**: Genera código, explícalo y modifícalo para mejorar patrones de desarrollo.
+4. **Integración CI/CD**: Añade `opencodezen test` en pipelines GitHub Actions para validar snippets automáticamente.
+5. **Extensión comunitaria**: Crea módulos Python personalizados y comparte con la comunidad.
+6. **Productividad máxima**: Flujo recomendado: `generate` → `explain` → `test` → integrar en n8n/Docker.
 
 ---
 
@@ -207,10 +187,10 @@ opencodezen doc "mi_proyecto/"
 **A:** Crea el objeto Zen con `model="free"`. Ideal para aprender y experimentar sin suscripción.
 
 **Q:** Cómo integrar OpenCode Zen con n8n?  
-**A:** Usa nodos `Execute Python` o `Execute Command` para ejecutar scripts Zen dentro de flujos. Esto permite automatizar generación de código, tests y documentación.  
+**A:** Usa nodos `Execute Python` o `Execute Command` para ejecutar scripts Zen dentro de flujos. Esto permite automatizar generación de código, tests y documentación.
 
 **Q:** Cómo integrar en pipelines CI/CD?  
-**A:** Ejecuta `opencodezen test` o tus scripts Python dentro de contenedores Docker, asegurando reproducibilidad y control de versiones.  
+**A:** Ejecuta `opencodezen test` o tus scripts Python dentro de contenedores Docker, asegurando reproducibilidad y control de versiones.
 
 ---
 
@@ -218,10 +198,10 @@ opencodezen doc "mi_proyecto/"
 
 Contribuye con:
 
-- Nuevos comandos CLI y módulos Python  
-- Integración de más lenguajes y modelos gratuitos  
-- Ejemplos prácticos, pipelines y flujos n8n  
-- Mejoras en documentación, tests y badges CI/CD  
+- Nuevos comandos CLI y módulos Python
+- Integración de más lenguajes y modelos gratuitos
+- Ejemplos prácticos, pipelines y flujos n8n
+- Mejoras en documentación, tests y badges CI/CD
 
 Abre un **issue** o **pull request** y ayuda a la comunidad a crecer.
 
@@ -231,14 +211,25 @@ Abre un **issue** o **pull request** y ayuda a la comunidad a crecer.
 
 OpenCode Zen combina **potencia, flexibilidad y comunidad**, ideal para:
 
-- Aprender a programar con ejemplos prácticos  
-- Optimizar y explicar código existente  
-- Automatizar tareas repetitivas  
-- Crear snippets, tests y documentación rápida  
-- Integrar **modelos gratuitos de IA y flujos n8n** para pipelines reales  
+- Aprender a programar con ejemplos prácticos
+- Optimizar y explicar código existente
+- Automatizar tareas repetitivas
+- Crear snippets, tests y documentación rápida
+- Integrar **modelos gratuitos de IA y flujos n8n** para pipelines reales
 
 ---
 
-## 📝 Licencia
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-MIT — contribuciones bienvenidas 🚀
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
